@@ -8,7 +8,7 @@
 <!-- Hero Section / Title -->
 <h1 align="center">
   <a  href="https://github.com/tossBeneface">
-  Toss BeneFace 🚀 
+  Toss BeneFace 🚀(클릭 시 프로젝트로 이동합니다) 
   </a>
   <br>
   <sub>AI-powered Kiosk & POS Suite for Toss Place Merchants</sub>
