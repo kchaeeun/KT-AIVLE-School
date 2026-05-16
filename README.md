@@ -1,13 +1,15 @@
 # KT-AIVLE-School
 
-* Team TossBeneface
-  - 토스의 얼굴 인식 기반 AI 결제 시스템이 본격화 되기전 진행한 기업형 프로젝트(https://github.com/tossBeneface)
+> 토스의 얼굴 인식 기반 AI 결제 시스템이 본격화 되기전 진행한 기업형 프로젝트
+ 
   <p align="center">
 </p>
 <!-- ──────────────────────────────────────────────────────────────── -->
 <!-- Hero Section / Title -->
 <h1 align="center">
-  Toss BeneFace 🚀  
+  <a  href="https://github.com/tossBeneface">
+  Toss BeneFace 🚀 
+  </a>
   <br>
   <sub>AI-powered Kiosk & POS Suite for Toss Place Merchants</sub>
 </h1>
